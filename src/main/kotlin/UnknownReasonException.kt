@@ -1,0 +1,1 @@
+class UnknownReasonException (override val message : String) : RuntimeException (message)
